@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(203, 232, 233);
+}
+.container{
+font-size: 60px;
+text-align: center;
+margin-top: 40px;
+}
+#inp{
+    width: 285px;
+    height: 80px;
+    padding-left: 15px;
+    border-radius: 20px;
+    font-size: 30px;
+    background-color: darkgrey;
+    color: beige;
+}
+button{
+    border: 2px solid black;
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 50px;
+    color: rgb(255, 255, 254);
+    background-color: rgb(54, 53, 53);
+}
+button:hover{
+    box-shadow: 5px 10px 4px 2px rgb(136, 126, 126);
+}
+button:hover{
+    color: rgb(18, 17, 17);
+    background-color: rgb(240, 234, 234);
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    color: rgb(138, 6, 130);
+}
+h1:hover{
+    font-size: 40px;
+    text-shadow: 28px 35px rgba(111, 40, 117, 0.499);
+}
